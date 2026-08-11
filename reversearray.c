@@ -1,3 +1,5 @@
+// Copy the elements of one array into another array.
+
 #include <stdio.h>
 
 void reverseArray(int arr[], int n)
